@@ -2,4 +2,4 @@
 
 ## By Katherine Cox-Buday
 
-[BOOK](https://learning.oreilly.com/library/view/concurrency-in-go "Concurrency in Go")
+Safari Book: [Concurrency in Go](https://learning.oreilly.com/library/view/concurrency-in-go/9781491941294 "Concurrency in Go")
